@@ -65,24 +65,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `midjourney`
 
-## 👨‍💻 Expert
 
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      
-    />
-    <p>&nbsp&nbsp&nbspjoaojunior<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/jrrjunior2020Code">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/jrrjunior27-exe">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
